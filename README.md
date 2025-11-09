@@ -41,16 +41,6 @@ Language	JavaScript (ES6+)
 Your app will be running at http://localhost:5173
  ✨
 
-🧠 Project Structure
-src/
- ├── components/
- │    └── PodcastPreviewCard.jsx   # Reusable card component
- ├── App.jsx                       # Fetch logic, layout, grid
- ├── header.jsx                    # Top navigation/header
- ├── Footer.jsx                    # Footer layout
- ├── data.js                       # Static genre reference data
- ├── main.jsx                      # React root + Tailwind import
- └── index.css                     # Tailwind entry point
 
 💡 How It Works
 
